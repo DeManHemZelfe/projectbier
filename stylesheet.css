@@ -1,0 +1,116 @@
+body {
+    padding: 10px;
+    padding-top:0px;
+    margin-top:0px;
+}
+nav {
+    display: inline-block;
+}
+
+header {
+    background-color: lightskyblue;
+    max-height: 100px;
+}
+footer {
+    background-color:gray;
+    height: auto;
+    margin-left: 0px;
+}
+img#almere{
+    width: 310px;
+    padding:10px;
+}
+img#politie {
+    width: 310px;
+    padding: 10px;
+}
+img#roc {
+    width: 310px;
+    padding: 10px;
+}
+article#a1{
+    margin-left: 10px;
+    width: 300px;
+    height: auto;
+}
+
+article#a2 {
+    text-align: center;
+    width: 320px;
+    height:600px;
+    margin-left: 177px;
+    /*margin-left: 155px;*/
+}
+section#s2 {
+    text-align:center;
+    display:inline-block;
+    height: auto;
+
+}
+
+section#s1{
+    margin: 10px;
+    display: inline-block;
+}
+
+article#a3 {
+    /*text-align:right;*/
+    width: 304px;
+    height:600px;
+    margin-left:166px;
+}
+section#s3 {
+    /*text-align: right;*/
+    display: inline-block;
+    height: auto;
+    margin: 10px;
+}
+
+
+
+ h3 {
+     margin: 10px;
+     height: auto;
+ }
+
+ h1 {
+     text-align: right;
+     margin-right: 260px;
+ }
+
+ul#dab {
+    display:block;
+}
+
+
+div#divje {
+    display: inline-block;
+}
+
+li.hoop {
+    display: inline-block;
+    margin: 20px;
+}
+
+li.raar{
+    display:block;
+   }
+ul {
+
+}
+
+h2 {
+    margin: 10px;
+    text-align: right;
+    width: 401px;
+}
+p {
+    margin-left: 458px;
+}
+iframe {
+    display: inline-block;
+    text-align: left;
+}
+a {
+    color: white;
+}
