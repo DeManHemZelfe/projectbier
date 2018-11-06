@@ -1,7 +1,9 @@
 body {
-    padding: 10px;
+    padding: 20px;
     padding-top:0px;
     margin-top:0px;
+    margin-left: 10px;
+    margin-right: 10px;
 }
 nav {
     display: inline-block;
@@ -120,4 +122,37 @@ iframe {
 }
 a {
     color: white;
+}
+
+section#s4 {
+    display: inline-block;
+}
+article#a4 {
+    text-align: right;
+    display: inline-block;
+    margin-left: 860px;
+}
+section#s5 {
+    margin-top: 40px;
+    margin-left: 20px;
+    padding: 10px;
+}
+img#js {
+    width: 200px;
+    height: auto;
+    margin-left: 10px;
+    display: inline-block;
+}
+img#blof {
+    margin-left: 0px;
+}
+img#guus {
+    width: 200px;
+    height: auto;
+    display: inline-block;
+    margin-left: 70px;
+}
+div#lijntje {
+    background-color: red;
+    /*VOOOR DE DUIDLEIJKHEID TE VERBETEREN*/     
 }
