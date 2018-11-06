@@ -24,6 +24,13 @@ img#politie {
     width: 310px;
     padding: 10px;
 }
+img#overzichtconcert {
+    text-align:right;
+    width: 450px;
+    height: auto;
+    display: inline-block;
+    margin-left:420px;
+}
 img#roc {
     width: 310px;
     padding: 10px;
@@ -75,7 +82,7 @@ section#s3 {
 
  h1 {
      text-align: right;
-     margin-right: 260px;
+     margin-right: 400px;
  }
 
 ul#dab {
