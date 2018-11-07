@@ -44,14 +44,14 @@ article#a1{
 }
 
 article#a2 {
-    text-align: center;
+    text-align: left;
     width: 320px;
     height:600px;
     margin-left: 177px;
     /*margin-left: 155px;*/
 }
 section#s2 {
-    text-align:center;
+    text-align:left;
     display:inline-block;
     height: auto;
 
@@ -139,7 +139,7 @@ section#s5 {
 }
 img#js {
     width: 200px;
-    height: auto;
+    height: 130px;
     margin-left: 10px;
     display: inline-block;
 }
@@ -147,12 +147,20 @@ img#blof {
     margin-left: 0px;
 }
 img#guus {
-    width: 200px;
-    height: auto;
+    /*width: 200px;*/
+    height: 130px;
     display: inline-block;
     margin-left: 70px;
 }
+img#nielson {
+    /*width: 200px;*/
+    height: 130px;
+    display: inline-block;
+    margin-left: 70px;
+}
+
 div#lijntje {
     background-color: red;
+    margin-bottom: 10px;
     /*VOOOR DE DUIDLEIJKHEID TE VERBETEREN*/
 }
