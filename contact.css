@@ -55,20 +55,56 @@ h1 {
     margin-left: 78px;
 }
 section#ss1 {
-    width: 50%;
+    width: 40%;
     text-align: left;
     float: left;
 }
 section#ss2 {
-    width: 50%;
+    width: 60%;
+    height: auto;
     text-align: right;
     display: block;
     float: right;
+    margin-left: 0px;
+    background-color: yellow;
 }
 article#aa1 {
-    width: 50%;
+    width: 40%;
 }
 iframe {
     margin-left: 10px;
     display: inline-block;
+    margin-bottom: 10px;
 }
+article#aa2 {
+
+    width: 470px;
+    height: auto;
+    text-align: left;
+    margin-left: 20px;
+}
+
+ section#ss1 {
+    background-color: magenta;
+}
+ section#man {
+     background-color:red;
+     margin: 20px;
+     display: inline-block;
+ }
+ article#output {
+     margin: 20px;
+     display: inline-block;
+ }
+ article#door {
+     width: 150px;
+     height: auto;
+     margin-left: 60px;
+     margin-top: 50px;
+ }
+ h4 {
+     margin-left: 60px;
+ }
+ h6 {
+     font-size: 40px;
+ }

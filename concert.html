@@ -5,6 +5,22 @@
     <link href="stylesheet.css" rel="stylesheet">
     <meta charset="UTF-8">
     <title>Concerten</title>
+    <style>
+        .grid-container {
+            display: grid;
+            grid-template-columns: auto ;
+            grid-template-rows: auto auto auto;
+            grid-gap: 0px;
+            padding: 0px;
+        }
+        .grid-container>div {
+            background-color:white;
+            text-align: center;
+            padding:20px ;
+            font-size: 0px;
+        }
+    </style>
+
 </head>
 
 <header>
@@ -34,8 +50,10 @@
 
 <section id="s5">
     <article id="a5">
-        <div id="lijntje"> lijntje blok</div>
-    En er is meer......
+        <div id="lijntje"><div class="grid-container" style="grid-auto-flow: column;">
+            <div class="item1"></div>
+            <div class="item2"></div></div>
+        En meer....
         <img id="js" src="plaatjes/3js.png">
         <img id="guus" src="plaatjes/guusje.jpg">
         <img id="nielson" src="plaatjes/nielson.jpg">

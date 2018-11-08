@@ -7,6 +7,7 @@ body {
 }
 nav {
     display: inline-block;
+
 }
 
 header {
@@ -32,6 +33,7 @@ img#overzichtconcert {
     height: auto;
     display: inline-block;
     margin-left:420px;
+    border: 10px blue solid;
 }
 img#roc {
     width: 310px;
@@ -98,10 +100,13 @@ div#divje {
 
 li.hoop {
     display: inline-block;
-    margin: 20px;
+    margin-left: 20px;
+    padding: 20px;
+
 }
 
 li.raar{
+
     display:block;
    }
 ul {
@@ -138,29 +143,42 @@ section#s5 {
     padding: 10px;
 }
 img#js {
-    width: 200px;
-    height: 130px;
-    margin-left: 10px;
+    width: auto;
+    height: 175px;
+    margin-left: 30px;
     display: inline-block;
 }
 img#blof {
     margin-left: 0px;
+    border: 10px blue solid;
+
+
 }
 img#guus {
     /*width: 200px;*/
-    height: 130px;
+    height: 175px;
     display: inline-block;
     margin-left: 70px;
 }
 img#nielson {
     /*width: 200px;*/
-    height: 130px;
+    height: 175px;
+    display: inline-block;
+    margin-left: 70px;
+}
+img#ivanb {
+    height: 175px;
     display: inline-block;
     margin-left: 70px;
 }
 
 div#lijntje {
-    background-color: red;
-    margin-bottom: 10px;
+    background-color:white;
+
     /*VOOOR DE DUIDLEIJKHEID TE VERBETEREN*/
+}
+h6 {
+    font-size: 40px;
+    margin-top:10px;
+    padding: 0px;
 }
