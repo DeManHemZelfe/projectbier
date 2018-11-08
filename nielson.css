@@ -1,0 +1,100 @@
+body {
+    /*padding: 20px;*/
+    /*padding-top:0px;*/
+    /*margin-top:0px;*/
+    /*margin-left: 10px;*/
+    /*margin-right: 10px;*/
+}
+nav {
+    display: inline-block;
+}
+
+header {
+    background-color: lightskyblue;
+    max-height: 100px;
+}
+footer {
+    background-color:gray;
+    height: auto;
+    margin-left: 0px;
+    clear: both;
+}
+
+li.hoop {
+    display: inline-block;
+    margin: 20px;
+}
+
+li.raar{
+    display:block;
+    color: white;
+}
+a {
+    color: white;
+}
+ul {
+
+
+}
+ul#dab {
+    display:block;
+}
+h3 {
+    margin-left:20px;
+}
+section#nielson {
+    width: 25%;
+    display: inline-block;
+    vertical-align: top;
+}
+img#nielsonn {
+    margin: 20px;
+    width: 380px;
+    height: auto;
+    display: inline-block;
+}
+img#nielsongitaar {
+    margin: 20px;
+    width: 380px;
+    height: auto;
+    display: inline-block;
+}
+section#nielson2 {
+    display: inline-block;
+    width: 22%;
+    vertical-align: top;
+}
+article#nielsonarticle2 {
+    vertical-align: top;
+    display: inline-block;
+    width: 236px;
+    height: auto;
+    margin-left: 80px;
+}
+section#nielson3 {
+    text-align:left;
+    display:inline-block;
+    height: auto;
+    width: 17%;
+    vertical-align: top;
+}
+article#nielsonarticle3 {
+    width: 230px;
+    height:auto;
+    margin-left: 20px;
+    text-align: left;
+}
+section#nielson4 {
+    vertical-align: top;
+    width: 22%;
+    text-align:left;
+    display:inline-block;
+    height: auto;
+}
+article#nielsonarticle4 {
+    width: 230px;
+    height:auto;
+    margin-left: 20px;
+    text-align: left;
+
+}

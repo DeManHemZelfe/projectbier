@@ -149,8 +149,13 @@ img#js {
     display: inline-block;
 }
 img#blof {
-    margin-left: 0px;
+    margin-left: 100px;
     border: 10px blue solid;
+    text-align:right;
+    width: 330px;
+    height: auto;
+    display: inline-block;
+
 
 
 }
