@@ -83,6 +83,7 @@ article#nielsonarticle3 {
     height:auto;
     margin-left: 20px;
     text-align: left;
+    display: inline-block;
 }
 section#nielson4 {
     vertical-align: top;
@@ -96,5 +97,19 @@ article#nielsonarticle4 {
     height:auto;
     margin-left: 20px;
     text-align: left;
+}
+section#nielsonyt {
+    width: 22%;
+    text-align:left;
+    display:inline-block;
+    height: auto;
+}
+article#nielsonarticleyt {
+    width: 230px;
+    height:auto;
+    margin-left: 20px;
+    text-align: left;
+}
+iframe#videoniels {
 
 }
