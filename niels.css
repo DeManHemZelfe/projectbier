@@ -111,5 +111,6 @@ article#nielsonarticleyt {
     text-align: left;
 }
 iframe#videoniels {
-
+    margin-top: 10px;
+    bottom: 10px;
 }
